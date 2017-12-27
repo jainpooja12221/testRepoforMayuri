@@ -6,7 +6,7 @@ namespace TimePassGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World kye ko!");
         }
     }
 }
